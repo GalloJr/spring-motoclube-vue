@@ -139,8 +139,8 @@ export default {
     },
   },
   created() {
-    this.buscarApelido(this.app);
-    this.app = "";
+    this.buscarApelido(this.apelido);
+    this.apelido = "";
   },
 };
 </script>

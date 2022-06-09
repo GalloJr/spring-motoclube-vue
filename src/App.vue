@@ -3,7 +3,7 @@
     <div id="nav" class="row text-center">
       <router-link to="/login">Login</router-link> |
       <router-link to="/">Home</router-link> |
-      <router-link to="/moradores">Morador</router-link>
+      <router-link to="/membros">Membro</router-link>
     </div>
     <router-view />
   </div>

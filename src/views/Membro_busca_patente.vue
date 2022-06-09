@@ -134,8 +134,8 @@ export default {
     },
   },
   created() {
-    this.buscar(parseInt(this.pat));
-    this.pat = "";
+    this.buscar(parseInt(this.patente));
+    this.patente = "";
   },
 };
 </script>
